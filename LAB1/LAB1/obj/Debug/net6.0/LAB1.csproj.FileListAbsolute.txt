@@ -1,0 +1,15 @@
+C:\Users\kpenc\Desktop\PROJEKTY\.NET\LAB1\LAB1\bin\Debug\net6.0\LAB1.exe
+C:\Users\kpenc\Desktop\PROJEKTY\.NET\LAB1\LAB1\bin\Debug\net6.0\LAB1.deps.json
+C:\Users\kpenc\Desktop\PROJEKTY\.NET\LAB1\LAB1\bin\Debug\net6.0\LAB1.runtimeconfig.json
+C:\Users\kpenc\Desktop\PROJEKTY\.NET\LAB1\LAB1\bin\Debug\net6.0\LAB1.dll
+C:\Users\kpenc\Desktop\PROJEKTY\.NET\LAB1\LAB1\bin\Debug\net6.0\LAB1.pdb
+C:\Users\kpenc\Desktop\PROJEKTY\.NET\LAB1\LAB1\obj\Debug\net6.0\LAB1.csproj.AssemblyReference.cache
+C:\Users\kpenc\Desktop\PROJEKTY\.NET\LAB1\LAB1\obj\Debug\net6.0\LAB1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kpenc\Desktop\PROJEKTY\.NET\LAB1\LAB1\obj\Debug\net6.0\LAB1.AssemblyInfoInputs.cache
+C:\Users\kpenc\Desktop\PROJEKTY\.NET\LAB1\LAB1\obj\Debug\net6.0\LAB1.AssemblyInfo.cs
+C:\Users\kpenc\Desktop\PROJEKTY\.NET\LAB1\LAB1\obj\Debug\net6.0\LAB1.csproj.CoreCompileInputs.cache
+C:\Users\kpenc\Desktop\PROJEKTY\.NET\LAB1\LAB1\obj\Debug\net6.0\LAB1.dll
+C:\Users\kpenc\Desktop\PROJEKTY\.NET\LAB1\LAB1\obj\Debug\net6.0\refint\LAB1.dll
+C:\Users\kpenc\Desktop\PROJEKTY\.NET\LAB1\LAB1\obj\Debug\net6.0\LAB1.pdb
+C:\Users\kpenc\Desktop\PROJEKTY\.NET\LAB1\LAB1\obj\Debug\net6.0\LAB1.genruntimeconfig.cache
+C:\Users\kpenc\Desktop\PROJEKTY\.NET\LAB1\LAB1\obj\Debug\net6.0\ref\LAB1.dll
