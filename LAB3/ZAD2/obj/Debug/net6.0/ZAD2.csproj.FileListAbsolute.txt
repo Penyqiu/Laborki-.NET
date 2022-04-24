@@ -1,0 +1,15 @@
+C:\Users\GRizzly\Desktop\STUDIA\LABORKI\DOTNET\Laborki-.NET\LAB3\ZAD2\bin\Debug\net6.0\ZAD2.exe
+C:\Users\GRizzly\Desktop\STUDIA\LABORKI\DOTNET\Laborki-.NET\LAB3\ZAD2\bin\Debug\net6.0\ZAD2.deps.json
+C:\Users\GRizzly\Desktop\STUDIA\LABORKI\DOTNET\Laborki-.NET\LAB3\ZAD2\bin\Debug\net6.0\ZAD2.runtimeconfig.json
+C:\Users\GRizzly\Desktop\STUDIA\LABORKI\DOTNET\Laborki-.NET\LAB3\ZAD2\bin\Debug\net6.0\ZAD2.dll
+C:\Users\GRizzly\Desktop\STUDIA\LABORKI\DOTNET\Laborki-.NET\LAB3\ZAD2\bin\Debug\net6.0\ZAD2.pdb
+C:\Users\GRizzly\Desktop\STUDIA\LABORKI\DOTNET\Laborki-.NET\LAB3\ZAD2\obj\Debug\net6.0\ZAD2.csproj.AssemblyReference.cache
+C:\Users\GRizzly\Desktop\STUDIA\LABORKI\DOTNET\Laborki-.NET\LAB3\ZAD2\obj\Debug\net6.0\ZAD2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRizzly\Desktop\STUDIA\LABORKI\DOTNET\Laborki-.NET\LAB3\ZAD2\obj\Debug\net6.0\ZAD2.AssemblyInfoInputs.cache
+C:\Users\GRizzly\Desktop\STUDIA\LABORKI\DOTNET\Laborki-.NET\LAB3\ZAD2\obj\Debug\net6.0\ZAD2.AssemblyInfo.cs
+C:\Users\GRizzly\Desktop\STUDIA\LABORKI\DOTNET\Laborki-.NET\LAB3\ZAD2\obj\Debug\net6.0\ZAD2.csproj.CoreCompileInputs.cache
+C:\Users\GRizzly\Desktop\STUDIA\LABORKI\DOTNET\Laborki-.NET\LAB3\ZAD2\obj\Debug\net6.0\ZAD2.dll
+C:\Users\GRizzly\Desktop\STUDIA\LABORKI\DOTNET\Laborki-.NET\LAB3\ZAD2\obj\Debug\net6.0\refint\ZAD2.dll
+C:\Users\GRizzly\Desktop\STUDIA\LABORKI\DOTNET\Laborki-.NET\LAB3\ZAD2\obj\Debug\net6.0\ZAD2.pdb
+C:\Users\GRizzly\Desktop\STUDIA\LABORKI\DOTNET\Laborki-.NET\LAB3\ZAD2\obj\Debug\net6.0\ZAD2.genruntimeconfig.cache
+C:\Users\GRizzly\Desktop\STUDIA\LABORKI\DOTNET\Laborki-.NET\LAB3\ZAD2\obj\Debug\net6.0\ref\ZAD2.dll
