@@ -1,0 +1,8 @@
+C:\Users\GRizzly\Desktop\STUDIA\LABORKI\DOTNET\Laborki-.NET\LAB7V2\ZAD1\Client_Console\bin\Debug\Client_Console.exe.config
+C:\Users\GRizzly\Desktop\STUDIA\LABORKI\DOTNET\Laborki-.NET\LAB7V2\ZAD1\Client_Console\bin\Debug\Client_Console.exe
+C:\Users\GRizzly\Desktop\STUDIA\LABORKI\DOTNET\Laborki-.NET\LAB7V2\ZAD1\Client_Console\bin\Debug\Client_Console.pdb
+C:\Users\GRizzly\Desktop\STUDIA\LABORKI\DOTNET\Laborki-.NET\LAB7V2\ZAD1\Client_Console\obj\Debug\Client_Console.csproj.AssemblyReference.cache
+C:\Users\GRizzly\Desktop\STUDIA\LABORKI\DOTNET\Laborki-.NET\LAB7V2\ZAD1\Client_Console\obj\Debug\Client_Console.csproj.SuggestedBindingRedirects.cache
+C:\Users\GRizzly\Desktop\STUDIA\LABORKI\DOTNET\Laborki-.NET\LAB7V2\ZAD1\Client_Console\obj\Debug\Client_Console.csproj.CoreCompileInputs.cache
+C:\Users\GRizzly\Desktop\STUDIA\LABORKI\DOTNET\Laborki-.NET\LAB7V2\ZAD1\Client_Console\obj\Debug\Client_Console.exe
+C:\Users\GRizzly\Desktop\STUDIA\LABORKI\DOTNET\Laborki-.NET\LAB7V2\ZAD1\Client_Console\obj\Debug\Client_Console.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "doo2MBlTuQIkFuLebc0wdNlNjGdiQgbmONATSLgJVIPaMQk+EKRcMAjGwxO+RsXqRynxewN7LbaRZeJ54cudHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\GRizzly\\Desktop\\STUDIA\\LABORKI\\DOTNET\\Laborki-.NET\\LAB5\\ZAD2\\ZAD2.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GRizzly\\.nuget\\packages\\fsharp.core\\6.0.2\\fsharp.core.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
