@@ -1,0 +1,66 @@
+﻿@page "/phonebook/list"
+
+<PageTitle>Phone number book</PageTitle>
+
+@using Zad1_2.Data
+@inject PhoneBookService PhoneBookService
+
+<h1>Phone number book</h1>
+
+@if (_persons == null)
+{
+    <p>
+        <em>Loading...</em>
+    </p>
+}
+else
+{
+    <table class="table">
+        <thead>
+        <tr>
+            <th>Name</th>
+            <th>Surname</th>
+            <th>Address</th>
+            <th>Phone number</th>
+        </tr>
+        </thead>
+        <tbody>
+        @foreach (var person in _persons)
+        {
+            <tr>
+                <td>@person.Name</td>
+                <td>@person.Surname</td>
+                <td>@person.Address</td>
+                <td>@person.PhoneNumber</td>
+            </tr>
+        }
+        </tbody>
+    </table>
+}
+
+<h3>Find number by address</h3>
+
+<EditForm model="_searchPerson" OnSubmit="FindMatchingPersons">
+    <div>
+        <label for="address">Address</label>
+        <InputText id="address" @bind-Value="_address" class="form-control"/>
+    </div>
+    <br/>
+    <button type="submit" class="btn btn-primary">Find</button>
+</EditForm>
+
+@code {
+    private string _address = ""; 
+    private Person[]? _persons;
+
+    async Task FindMatchingPersons()
+    {
+        this._persons = await PhoneBookService.FindPersonByAddress(this._address);
+        StateHasChanged();
+    }
+    
+    protected override async Task OnInitializedAsync()
+    {
+        this._persons = await PhoneBookService.GetAllPersons();
+    }
+}

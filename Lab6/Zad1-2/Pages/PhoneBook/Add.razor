@@ -1,0 +1,40 @@
+﻿@page "/phonebook/add"
+
+<PageTitle>Phone number book</PageTitle>
+
+@using Zad1_2.Data
+@inject PhoneBookService PhoneBookService
+@inject NavigationManager NavigationManager
+
+<h3>Create phone book entry</h3>
+
+<EditForm model="_person" OnSubmit="CreatePerson">
+    <div>
+        <label for="name">Name</label>
+        <InputText id="name" @bind-Value="_person.Name" class="form-control"/>
+    </div>
+    <div>
+        <label for="surname">Surname</label>
+        <InputText id="surname" @bind-Value="_person.Surname" class="form-control"/>
+    </div>
+    <div>
+        <label for="address">Address</label>
+        <InputText id="address" @bind-Value="_person.Address" class="form-control"/>
+    </div>
+    <div>
+        <label for="phone-number">Phone number</label>
+        <InputText id="phone-number" @bind-Value="_person.PhoneNumber" class="form-control"/>
+    </div>
+    <br/>
+    <button type="submit" class="btn btn-primary">Create entry</button>
+</EditForm>
+
+@code {
+    private Person _person = new();
+
+    async Task CreatePerson()
+    {
+        await PhoneBookService.CreatePerson(this._person);
+        NavigationManager.NavigateTo("phonebook/list");
+    }
+}
